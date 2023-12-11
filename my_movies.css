@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Nova+Square&display=swap');
+
+body {
+    background-color: black;
+}
+
+.c {
+    height: 400px;
+    width: 16%;
+    border: black solid 25px;
+    float: left;
+    background-color: black;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+img {
+    width: 100%;
+    height: 200px;
+}
+
+p {
+    color: white;
+    padding: 10px;
+}
+
+h4 {
+    color: red;
+    text-align: center;
+    font-family: 'Nova Square', sans-serif;
+}
+
+.a {
+    height: 15px;
+    width: 150px;
+    background-color: black;
+    border: 1px solid gray;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 1px;
+}
+
+.c:hover {
+    background-color: gray;
+    box-shadow: 0 2px 8px 0 rgb(128, 128, 128);
+    transform: scale(1.10);
+}
+
+/* ---------------------------- */
+
+.b{
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    border-bottom: 2px solid white;
+    margin-bottom: 8px;
+}
+
+.d{
+    color: rgb(255, 0, 0);
+    padding: 10px;
+    font-family: 'Nova Square', sans-serif;
+    font-family: 'Ephesis', cursive;
+}
+
+.e{
+    height: 22px;
+    width: 150px;
+    margin-top: -74px;
+    margin-left: 1020px;
+    background-color: white;
+    padding: 5px;
+    text-align: left;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.427);
+    text-align: center;
+}
+
+a:hover{
+    color: black;
+}
+
+.f{
+    height: 40px;
+    width: 100%;
+    position: relative;
+    background-color: white;
+    font-size: large;
+    float: left;
+    bottom: 5px;
+    font-family: 'Nova Square', sans-serif;
+}
+
+.g{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+.g:hover{
+    color: red;
+}
+
+.h{
+    height: 0px;
+    width: 100%;
+    position: absolute;
+    top: 2px;
+    padding: 5px;
+}
+
+.h1{
+    left: 100px;
+}
+
+.h2{
+    left: 400px;
+}
+
+.h3{
+    left: 750px;
+}
+
+.h4{
+    left: 1100px;
+}
